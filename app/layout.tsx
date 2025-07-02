@@ -4,7 +4,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Felipe Moura - Portfólio ",
-  description: "Business Intelligence | Análise de Dados | Power BI | Microsoft Fabric | SQL",
+  description: "Business Analyst | Estratégia & Eficiência Operacional",
   generator: "v0.dev",
 }
 
